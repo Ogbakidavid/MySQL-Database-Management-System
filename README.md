@@ -39,3 +39,5 @@ bash
 mysql -u [username] -p
 USE library_db;
 SHOW TABLES;
+
+![library_erd](https://github.com/user-attachments/assets/5c829420-781f-4017-9892-6b4ff1e7bfc6)
